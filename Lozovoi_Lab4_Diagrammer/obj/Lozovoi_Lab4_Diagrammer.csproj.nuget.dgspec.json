@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\04 STUDIES IN TSU\\(3 курс 2 сем.) ООАиП\\Лаб4\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer.csproj": {}
+  },
+  "projects": {
+    "D:\\04 STUDIES IN TSU\\(3 курс 2 сем.) ООАиП\\Лаб4\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\04 STUDIES IN TSU\\(3 курс 2 сем.) ООАиП\\Лаб4\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer.csproj",
+        "projectName": "Lozovoi_Lab4_Diagrammer",
+        "projectPath": "D:\\04 STUDIES IN TSU\\(3 курс 2 сем.) ООАиП\\Лаб4\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\04 STUDIES IN TSU\\(3 курс 2 сем.) ООАиП\\Лаб4\\Lozovoi_Lab4_Diagrammer\\Lozovoi_Lab4_Diagrammer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.15, 8.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.105/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
