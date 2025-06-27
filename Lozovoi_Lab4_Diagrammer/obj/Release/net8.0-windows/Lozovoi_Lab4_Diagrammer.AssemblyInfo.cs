@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lozovoi_Lab4_Diagrammer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f48c713e45c24d6b5eaa71a0e5c8d444dbc9992b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lozovoi_Lab4_Diagrammer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lozovoi_Lab4_Diagrammer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

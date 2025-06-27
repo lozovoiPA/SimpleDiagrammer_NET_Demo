@@ -61,3 +61,4 @@ D:\04 STUDIES IN TSU\(3 курс 2 сем.) ООАиП\Лаб4\Lozovoi_Lab4_Diag
 D:\04 STUDIES IN TSU\(3 курс 2 сем.) ООАиП\Лаб4\Lozovoi_Lab4_Diagrammer\Lozovoi_Lab4_Diagrammer\obj\Release\net8.0-windows\Lozovoi_Lab4_Diagrammer.pdb
 D:\04 STUDIES IN TSU\(3 курс 2 сем.) ООАиП\Лаб4\Lozovoi_Lab4_Diagrammer\Lozovoi_Lab4_Diagrammer\obj\Release\net8.0-windows\Lozovoi_Lab4_Diagrammer.genruntimeconfig.cache
 D:\04 STUDIES IN TSU\(3 курс 2 сем.) ООАиП\Лаб4\Lozovoi_Lab4_Diagrammer\Lozovoi_Lab4_Diagrammer\obj\Release\net8.0-windows\ref\Lozovoi_Lab4_Diagrammer.dll
+D:\04 STUDIES IN TSU\(3 курс 2 сем.) ООАиП\Лаб4\Lozovoi_Lab4_Diagrammer\Lozovoi_Lab4_Diagrammer\obj\Release\net8.0-windows\Lozovoi_Lab4_Diagrammer.sourcelink.json
